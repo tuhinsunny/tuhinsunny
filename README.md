@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tuhinchandra14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuhinchandra14" height="30" width="40" /></a>
-<a href="https://linkedin.com/Tuhin Chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuhin chandra" height="30" width="40" /></a>
+<a href="https://linkedin.com/tuhin chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuhin chandra" height="30" width="40" /></a>
 <a href="https://fb.com/tuhin chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuhin chandra" height="30" width="40" /></a>
 <a href="https://instagram.com/tuhinsunny2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuhinsunny2k04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tuhinchandra2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tuhinchandra2k04" height="30" width="40" /></a>
