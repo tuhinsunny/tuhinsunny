@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://tuhinsunny.io)
 [![@tuhinchandra's Holopin board](https://holopin.me/tuhinchandra)](https://holopin.io/@tuhinchandra)
-<h1 align="center">Hi 👋, I'm Tuhin Chandra😁</h1>
+<h1 align="center">Hi 👋, I'm Tuhin Chandra😁😊</h1>
 <h3 align="center">A passionate learner and aspiring software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsunny&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinsunny" /> </p>
