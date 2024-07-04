@@ -38,8 +38,6 @@
 
 
 
-![snake gif](https://github.com/tuhinsunny/tuhinsunny/blob/output/github-contribution-grid-snake.gif)
-
 
 
 
