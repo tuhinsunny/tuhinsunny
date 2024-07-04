@@ -47,7 +47,13 @@
 </div>
 
 <hr/>
+<div align="center">
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tuhinsunny&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+</div>
+<hr/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tuhinsunny&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tuhinsunny&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
