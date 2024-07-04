@@ -56,6 +56,14 @@
 </div>
 <p></p>
 
+<hr/>
+
+[![tuhinsunny's GitHub | Stats](https://stats.quira.sh/tuhinsunny/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
+[![tuhinsunny's GitHub | Dependencies](https://stats.quira.sh/tuhinsunny/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
+[![tuhinsunny's GitHub | Topics Over Time](https://stats.quira.sh/tuhinsunny/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
+[![tuhinsunny's GitHub | Languages Over Time](https://stats.quira.sh/tuhinsunny/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
+
+
 
 
 
