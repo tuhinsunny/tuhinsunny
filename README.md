@@ -27,7 +27,11 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<hr/>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -47,6 +51,13 @@
 </div>
 
 <hr/>
+
+<div align=center>
+   <a href="https://github.com/tuhinsunny">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhinsunny&theme=redical&hide_border=true" />
+   </a>
+</div>
+
 <div align="center">
 
 ## 🏆 GitHub Trophies
@@ -63,6 +74,7 @@
 <p></p>
 
 <hr/>
+
 
 [![tuhinsunny's GitHub | Stats](https://stats.quira.sh/tuhinsunny/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
 [![tuhinsunny's GitHub | Dependencies](https://stats.quira.sh/tuhinsunny/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
