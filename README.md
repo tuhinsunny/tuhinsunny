@@ -48,12 +48,13 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsunny&show_icons=true&locale=en&layout=compact" alt="tuhinsunny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhinsunny&show_icons=true&locale=en" alt="tuhinsunny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsunny&" alt="tuhinsunny" /></p>
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tuhinsunny&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tuhinsunny&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsunny&&theme=react&show_icons=true&locale=en&layout=compact" alt="tuhinsunny" />
+</div>
+<p></p>
 
 
 
