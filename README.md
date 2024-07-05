@@ -81,8 +81,8 @@
 
 <div align="center">
 <h2>Leetcode Stats🧑‍💻</h2>
-    <img height="250" width="300" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" alt="Not Found">
-    <img height="250"  alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
+    <img height="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Not Found">
+    <img height="300"  alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
