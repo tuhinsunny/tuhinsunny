@@ -1,10 +1,11 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNzAxOTQsIm5iZiI6MTcyMDE2OTg5NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDA4NTgxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3YTE1N2E0Y2E4YjM3MjIwYTEzMWY3MTlhMDM3ZmQ3NTU5MzkyZTViZTM0MzQ2NWE1MTExZDdkYzFiOTcxZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.I-aB0mpcW2z29ret75WZkeubtJhNi0P3H9BgiIpR83c)](https://tuhinsunny.io)
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://tuhinsunny.io)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 [![@tuhinchandra's Holopin board](https://holopin.me/tuhinchandra)](https://holopin.io/@tuhinchandra)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuhin+Chandra😉!;" />
 </h1>
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+
+
 <h3 align="center">A passionate learner and aspiring software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsunny&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinsunny" /> </p>
@@ -30,11 +31,11 @@
   </a>
 </div>
 
-<div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"> <br>
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -43,7 +44,7 @@
 </div>
 
 <br/>
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div align="center">
   <h2>🐍 Snake Eating My Contributions 🐍</h2>
@@ -53,8 +54,7 @@
   <br/><br/><br/>
 </div>
 
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align=center>
     <h2>Contribution Graph📊<h2/>
    <a href="https://github.com/tuhinsunny">
@@ -68,7 +68,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=tuhinsunny&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 </div>
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tuhinsunny&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tuhinsunny&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -77,15 +77,21 @@
 </div>
 <p></p>
 
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div align="center">
 <h2>Leetcode Stats🧑‍💻</h2>
-<img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
+<img height="300" src = "https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNzE1MDQsIm5iZiI6MTcyMDE3MTIwNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDA5MjAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzNjkxOWQwMjllYmQzZWU4YzUwMmMxOWI5YmQwMDk5NTgwMTk4NTMyMGQ3NWUyOGU1YjU0ZTdmYWUxOTIyM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.X0jVDLEQEavjQphq7H272JCnZB4ujp-XxgWI59dzYXM">
+    <img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
 </div>
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 [![tuhinsunny's GitHub | Stats](https://stats.quira.sh/tuhinsunny/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
 [![tuhinsunny's GitHub | Dependencies](https://stats.quira.sh/tuhinsunny/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
@@ -94,8 +100,7 @@
 [![tuhinsunny's GitHub | Languages Over Time](https://stats.quira.sh/tuhinsunny/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
 
 
-<img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 
