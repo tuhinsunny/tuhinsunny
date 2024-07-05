@@ -81,7 +81,7 @@
 
 <div align="center">
 <h2>Leetcode Stats🧑‍💻</h2>
-    <img height="250" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNzgyOTUsIm5iZiI6MTcyMDE3Nzk5NSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDExMTMxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNjc3MGIxYmY5MDY4OTY5MjlmZTAzYjhmZTkzN2U1ZjZkYjk5ZjM3Y2U0ZTU1MWE2ZDg4NzdmZDZiZTc2NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XXBwJYp6TzyE1Hz2CmhcxBSxteMyF4FJCUeldkl6FU4" alt="Not Found">
+    <img height="250" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" alt="Not Found">
     <img height="250"  alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
