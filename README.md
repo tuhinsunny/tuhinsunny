@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://tuhinsunny.io)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 [![@tuhinchandra's Holopin board](https://holopin.me/tuhinchandra)](https://holopin.io/@tuhinchandra)
+[![An image of @tuhinsunny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinsunny)](https://holopin.io/@tuhinsunny)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuhin+Chandra😉!;" />
 </h1>
@@ -81,7 +82,6 @@
 
 <div align="center">
 <h2>Leetcode Stats🧑‍💻</h2>
-    <img height="250" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Not Found">
     <img height="250"  alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/tuhinchandra2k04?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
