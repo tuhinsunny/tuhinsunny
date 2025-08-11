@@ -1,23 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://tuhinsunny.io)
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-[![@tuhinchandra's Holopin board](https://holopin.me/tuhinchandra)](https://holopin.io/@tuhinchandra)
-[![An image of @tuhinsunny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinsunny)](https://holopin.io/@tuhinsunny)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuhin+Chandra😉!;" />
 </h1>
 
 
-<h3 align="center">A passionate learner and aspiring software developer from India</h3>
+<h3 align="center">A passionate learner and aspiring developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsunny&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinsunny" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tuhinchandra14" target="blank"><img src="https://img.shields.io/twitter/follow/tuhinchandra14?logo=twitter&style=for-the-badge" alt="tuhinchandra14" /></a> </p>
 
-- 🌱 I’m currently learning **Java DSA and C++ DSA**
+- 🌱 I’m currently a Final Year Student at Netaji Subhash Engineering College.
 
-- 📫 How to reach me **tuhinchandra2k04@gmail.com**
+- 📫 How to reach me ? **tuhinchandra2k04@gmail.com**
 
-- ⚡ Fun fact **I always try to remain happy**
+- ⚡ Fun fact : **My favorite part of coding is the 'aha!' moment when a complex problem finally clicks into place.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
@@ -33,6 +31,12 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+[![@tuhinchandra's Holopin board](https://holopin.me/tuhinchandra)](https://holopin.io/@tuhinchandra)
+[![An image of @tuhinsunny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinsunny)](https://holopin.io/@tuhinsunny)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"> <br>
 </div>
@@ -41,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,django,express,typescript,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,django,express,mysql,cpp" /><br>
 </div>
 
 <br/>
@@ -93,14 +97,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-[![tuhinsunny's GitHub | Stats](https://stats.quira.sh/tuhinsunny/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
-[![tuhinsunny's GitHub | Dependencies](https://stats.quira.sh/tuhinsunny/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
-
-[![tuhinsunny's GitHub | Topics Over Time](https://stats.quira.sh/tuhinsunny/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
-[![tuhinsunny's GitHub | Languages Over Time](https://stats.quira.sh/tuhinsunny/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tuhinsunny)
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 
